@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /container
-permalink: /container
+title: /storage
+permalink: /storage
 ---
 
 Blah 
