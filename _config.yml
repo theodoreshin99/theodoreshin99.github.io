@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 唯我論</a>'
+footer: 唯我論'</a>
 
 # Build settings
 markdown: kramdown
