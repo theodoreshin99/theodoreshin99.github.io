@@ -4,11 +4,12 @@ url: "https://theodoreshin99.github.io"
 
 header_pages:
   - index.md
+  - container.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 唯我論</a>'
 
 # Build settings
 markdown: kramdown
