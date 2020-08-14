@@ -16,9 +16,9 @@ permalink: category
             <span><a href="/categories/{{ categoryName }}">
               CategoryName
               </a></span>
-            <span class="count">{{ eachCategory[1].size }}</span>
-            
-            </li>
+            <span class="count">{{ eachCategory[1].size }}
+          </span>
+          </li>
             {% endif %}
           {% endfor %}
         </ul>
